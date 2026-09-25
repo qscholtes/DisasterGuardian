@@ -37,11 +37,11 @@ Development progressed through several stages including initial UI prototyping, 
 
 The app uses the following public data sources and guidance:
 
-- [NINA / MoWaS](https://warnung.bund.de/) — official German civil-protection warnings, including general, flood, and heat warning feeds.
-- [Open-Meteo](https://open-meteo.com/) — current temperature and apparent-temperature data.
-- [PegelOnline](https://www.pegelonline.wsv.de/) — nearby water-level station measurements from the German Federal Waterways and Shipping Administration.
-- [Overpass API](https://overpass-api.de/) — OpenStreetMap facility data queried for nearby hospitals, police stations, fire stations, and mapped/potential shelters.
-- [OpenStreetMap](https://www.openstreetmap.org/) — map and facility data used through Overpass.
+- [NINA / MoWaS](https://warnung.bund.de/) - official German civil-protection warnings, including general, flood, and heat warning feeds.
+- [Open-Meteo](https://open-meteo.com/) - current temperature and apparent-temperature data.
+- [PegelOnline](https://www.pegelonline.wsv.de/) - nearby water-level station measurements from the German Federal Waterways and Shipping Administration.
+- [Overpass API](https://overpass-api.de/) - OpenStreetMap facility data queried for nearby hospitals, police stations, fire stations, and mapped/potential shelters.
+- [OpenStreetMap](https://www.openstreetmap.org/) - map and facility data used through Overpass.
 - [Federal Office of Civil Protection and Disaster Assistance (BBK)](https://www.bbk.bund.de/) — preparedness guidance linked from the Resource Hub.
 
 The application does not require API keys for these public requests.
