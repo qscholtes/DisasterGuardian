@@ -42,7 +42,7 @@ The app uses the following public data sources and guidance:
 - [PegelOnline](https://www.pegelonline.wsv.de/) - nearby water-level station measurements from the German Federal Waterways and Shipping Administration.
 - [Overpass API](https://overpass-api.de/) - OpenStreetMap facility data queried for nearby hospitals, police stations, fire stations, and mapped/potential shelters.
 - [OpenStreetMap](https://www.openstreetmap.org/) - map and facility data used through Overpass.
-- [Federal Office of Civil Protection and Disaster Assistance (BBK)](https://www.bbk.bund.de/) — preparedness guidance linked from the Resource Hub.
+- [Federal Office of Civil Protection and Disaster Assistance (BBK)](https://www.bbk.bund.de/) - preparedness guidance linked from the Resource Hub.
 
 The application does not require API keys for these public requests.
 
