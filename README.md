@@ -46,8 +46,6 @@ The application does not require API keys for these public requests.
 
 ## Running the project
 
-The project currently uses Expo SDK 57, React Native 0.86.3, and React 19.2.3. Use Node.js 22.13.0 or later in the Node.js 22 release line, with npm.
-
 Install dependencies from the lockfile and start the Expo development server:
 
 ```bash
