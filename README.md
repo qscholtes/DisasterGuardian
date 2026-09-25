@@ -31,6 +31,8 @@ DisasterGuardian is a React Native and Expo mobile application that helps users 
 └── utils/                    # Warning, geography, weather, facility, and notification logic
 ```
 
+Development progressed through several stages including initial UI prototyping, preparedness-task implementation, progression and badge systems, integration of location-based external data, and final usability/interface refinement. The repository was consolidated and uploaded to GitHub near the end of development, so the Git commit history does not represent the full chronological development process.
+
 ## External data sources
 
 The app uses the following public data sources and guidance:
