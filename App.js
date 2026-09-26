@@ -98,7 +98,7 @@ export default function App() {
           ref={navigationRef}
           onReady={() => handleNotificationResponse(Notifications.getLastNotificationResponse())}
         >
-          <StatusBar style="light" />
+          <StatusBar style="dark" />
           <Stack.Navigator
             initialRouteName={initialAppState.onboardingComplete ? 'HomeDashboard' : 'Welcome'}
             screenOptions={{
